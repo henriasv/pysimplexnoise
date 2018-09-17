@@ -4,7 +4,7 @@ Simplex noise for python, python bindings for SRombauts/SimplexNoise
 ## Installation 
 
 ```
-git clone https://github.com/henriasv/pysimplexnoise.git
+git clone --recurse-submodules https://github.com/henriasv/pysimplexnoise.git
 cd pysimplexnoise
 pip3 install . 
 ```
